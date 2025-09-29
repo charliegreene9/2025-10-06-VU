@@ -169,6 +169,7 @@ address.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
+<img class="vu-campus" src="{{ relative_root_path }}{% link /campus-platgrond-dec24.png %}" alt="VU Campus Map" />
 ![Map of the VU campus](campus platgrond dec24.png)
 {% comment %}
 DATE
