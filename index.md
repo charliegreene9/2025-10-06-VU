@@ -170,7 +170,6 @@ address.
 </p>
 {% endif %}
 <img class="vu-campus" src="{{ relative_root_path }}{% link /campus-platgrond-dec24.png %}" alt="VU Campus Map" />
-![Map of the VU campus](campus platgrond dec24.png)
 {% comment %}
 DATE
 
