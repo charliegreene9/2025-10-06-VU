@@ -214,7 +214,8 @@ special instructions.
   The workshop organizers have checked that:
 <p>
   <ul>
-    <li>The room is wheelchair / scooter accessible.</li>
+    <li>The room is wheelchair / scooter accessible. Unfortunately the Tuesday afternoon and Wednesday are not accessible via wheelchair or scooter. 
+    if you use either of these please contact us and we will do our best to change the room or think with you to find a solution.</li>
     <li>Accessible restrooms are available.</li>
   </ul>
 {% endif %}
